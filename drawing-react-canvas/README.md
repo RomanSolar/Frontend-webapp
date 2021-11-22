@@ -1,3 +1,8 @@
+# Frontend-webapp
+A simple drawing app for the Mintbean hackathon.\
+The app is based on React and Canvas API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
